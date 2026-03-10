@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GADGET", "GADGET.csproj", "{63ECC786-BF98-4153-AC78-8CD5E2966BBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63ECC786-BF98-4153-AC78-8CD5E2966BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63ECC786-BF98-4153-AC78-8CD5E2966BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63ECC786-BF98-4153-AC78-8CD5E2966BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63ECC786-BF98-4153-AC78-8CD5E2966BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F944A5B-E00F-488C-A260-CFBE84A72D6A}
+	EndGlobalSection
+EndGlobal
